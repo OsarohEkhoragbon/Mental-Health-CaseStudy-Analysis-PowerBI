@@ -44,7 +44,7 @@ To empower ClarityCare with a powerful decision-support tool that provides clari
 ## 📽️ Demo
 
 A video walkthrough of the dashboard is included in this repository:  
-**▶️ Clarity Care Suicide Analysis Interactive Dashboard** (`Clarity Care Suicide Analysis Interactive Dashbaord.mp4`)
+**▶️ Clarity Care Suicide Analysis Interactive Dashboard.MP4**
 
 ---
 
